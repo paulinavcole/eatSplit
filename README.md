@@ -1,6 +1,6 @@
 # Eat and Split
 
-In this app you can split bils with your friends.
+In this app you can split bills with your friends.
 
 ![image](https://github.com/user-attachments/assets/533be17f-8a27-49ae-aa7f-fb63640066e4)
 
